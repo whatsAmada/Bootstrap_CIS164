@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkblue;
+    margin: auto;
+    width: auto;
+    border: 3px solid blue;
+}
+h1 {
+	color: white;
+	margin-top: 0;
+}
+
+h2 {
+    color: darkorange;
+}
+
+h3 {
+    color: deeppink;
+}
+
+h5 {
+    color: coral;
+}
+
+p {
+    color: aliceblue;
+}
+div.hide {
+	display: none;
+}
+ul {
+	padding-left: 45px;
+}
+li {
+	padding-bottom: .4em;
+}
+p, a {
+	padding-bottom: .4em;
+	padding-left: 25px;
+}
+a, a:focus, a:hover {
+	color: blue;
+}
